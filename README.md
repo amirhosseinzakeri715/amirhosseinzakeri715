@@ -4,11 +4,11 @@
 I'm a passionate computer science student and aspiring full-stack web developer with a deep love for technology and programming. Since childhood, I've been fascinated by computers and the endless possibilities they offer. Currently, I'm pursuing my bachelor's degree in Computer Science while honing my skills in web development and exploring the exciting world of artificial intelligence.
 
 ## 🛠 Skills & Technologies
-- **Frontend Development**: HTML, CSS, JavaScript, Bootstrap, jQuery, React
-- **Backend Development**: Node.js
+- **Frontend Development**: HTML, CSS, JavaScript, Bootstrap, React, next.js,tailwind 
+- **Backend Development**: Node.js, express, postgresql
 - **Programming Languages**: Python, JavaScript
 - **Tools**: Git, VS Code, Command Line
-- **Other Interests**: AI, Machine Learning, Data Structures
+- **Other Interests**: Data Structures
 
 ## 🌱 Currently Learning
 - **Full-Stack Development**: MERN Stack (MongoDB, Express.js, React, Node.js)
