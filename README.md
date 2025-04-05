@@ -34,6 +34,7 @@ I'm eager to collaborate with popular companies and contribute to meaningful pro
 ## ⚡ Fun Fact
 I've been obsessed with computers since I was a kid, and my passion for computer science has only grown stronger over the years. I believe technology has the power to change the world, and I'm excited to be a part of that journey! 😄
 
+you can see my projects in my portfolio site: https://my-portfolio-seven-nu-60.vercel.app/
 ---
 
 📌 **Note**: This README is a work in progress. I'm constantly updating it as I learn, grow, and work on new projects. Stay tuned for more updates!
