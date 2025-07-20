@@ -31,8 +31,6 @@ I'm eager to collaborate with popular companies and contribute to meaningful pro
 - **GitHub**: [amirhosseinzakeri715](https://github.com/amirhosseinzakeri715)
 - **Email**: amirhosseinzakeri715@gmail.com
 
-## ⚡ Fun Fact
-I've been obsessed with computers since I was a kid, and my passion for computer science has only grown stronger over the years. I believe technology has the power to change the world, and I'm excited to be a part of that journey! 😄
 
 you can see my projects in my portfolio site: https://next-portfolio-git-last-edited-amir-hosseins-projects-1ca50360.vercel.app
 ---
