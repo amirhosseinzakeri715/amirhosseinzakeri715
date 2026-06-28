@@ -2,23 +2,23 @@
 
 Front-End Developer | React & Next.js Developer | UI/UX Designer | AI-Augmented Developer
 
-Building modern web experiences with code, design, and AI.
+Computer Engineering student passionate about building modern, scalable, and user-centric web applications. I specialize in creating high-performance digital products using modern frontend technologies, intuitive user experiences, and AI-augmented development workflows.
 
 ---
 
 🚀 About Me
 
-I'm a Front-End Developer and UI/UX Designer passionate about building scalable, high-performance, and user-centered web applications.
-
-My primary focus is developing modern digital products using React.js, Next.js, TypeScript, and Tailwind CSS while maintaining clean architecture, excellent user experience, and long-term maintainability.
-
-I also leverage AI-Augmented Development workflows using modern AI tools to accelerate development, improve productivity, and optimize software delivery.
+- 💻 Front-End Developer specializing in React.js and Next.js
+- 🎨 UI/UX Designer focused on clean and user-centered experiences
+- ⚡ Experienced in building responsive and scalable web applications
+- 🤖 AI-Augmented Developer leveraging Agentic AI workflows
+- 📚 Continuous learner passionate about software architecture and modern web technologies
 
 ---
 
 🛠 Tech Stack
 
-Frontend
+Frontend Development
 
 - React.js
 - Next.js
@@ -28,7 +28,7 @@ Frontend
 - HTML5
 - CSS3
 
-UI/UX
+UI/UX Design
 
 - Figma
 - Design Systems
@@ -36,11 +36,12 @@ UI/UX
 - Wireframing
 - Prototyping
 
-APIs & Data
+Data & APIs
 
-- REST APIs
-- TanStack Query
-- API Integration
+- REST API Integration
+- TanStack Query (React Query)
+- JSON
+- API Architecture
 
 Databases
 
@@ -48,7 +49,7 @@ Databases
 - MongoDB
 - MySQL
 
-Tools
+Development Tools
 
 - Git
 - GitHub
@@ -72,23 +73,23 @@ AI Development
 
 CRM Dashboard
 
-Modern CRM system with scalable architecture, API integration, reusable components, and responsive UI.
+Modern CRM dashboard built with Next.js, TypeScript and Tailwind CSS featuring scalable architecture, API integration and real-time capabilities.
 
-Corporate Websites
+Company Website
 
-Professional business websites built with Next.js, TypeScript, and Tailwind CSS.
+Corporate website focused on performance, responsive design and professional user experience.
 
 Personal Portfolio
 
-A modern portfolio showcasing projects, skills, and design work.
+Modern developer portfolio showcasing projects, technical skills and design capabilities.
 
 ---
 
 🌱 Currently Improving
 
 - Advanced React Patterns
-- Next.js Architecture
-- Front-End System Design
+- Front-End Architecture
+- Scalable Next.js Applications
 - TypeScript Best Practices
 - AI-Augmented Software Development
 
@@ -100,22 +101,23 @@ Bachelor's Degree in Computer Engineering
 
 ---
 
-📫 Connect With Me
+🌐 Connect With Me
 
-📧 Email: amirhosseinzakeri715@gmail.com
+Portfolio:
+https://next-portfolio-git-last-edited-amir-hosseins-projects-1ca50360.vercel.app
 
-💼 LinkedIn:
-linkedin.com/in/amir-hossein-zakeri-032934314
+GitHub:
+https://github.com/amirhosseinzakeri715
 
-🎨 Dribbble:
-dribbble.com/amir-hossein-zakeri
+LinkedIn:
+https://linkedin.com/in/amir-hossein-zakeri-032934314
 
-🌐 Portfolio:
-next-portfolio-git-last-edited-amir-hosseins-projects-1ca50360.vercel.app
+Dribbble:
+https://dribbble.com/amir-hossein-zakeri
 
-🐙 GitHub:
-github.com/amirhosseinzakeri715
+Email:
+amirhosseinzakeri715@gmail.com
 
 ---
 
-"Building scalable digital products through code, design, and AI."
+Building modern digital experiences through code, design and AI.
