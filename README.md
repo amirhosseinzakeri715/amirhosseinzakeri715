@@ -1,24 +1,24 @@
-#👋 Hi, I'm Amir Hossein Zakeri
+👋 Hi, I'm Amir Hossein Zakeri
 
 Front-End Developer | React & Next.js Developer | UI/UX Designer | AI-Augmented Developer
 
-Computer Engineering student passionate about building modern, scalable, and user-centric web applications. I specialize in creating high-performance digital products using modern frontend technologies, intuitive user experiences, and AI-augmented development workflows.
+Building modern web experiences with code, design, and AI.
 
 ---
 
-#🚀 About Me
+🚀 About Me
 
-- 💻 Front-End Developer specializing in React.js and Next.js
-- 🎨 UI/UX Designer focused on clean and user-centered experiences
-- ⚡ Experienced in building responsive and scalable web applications
-- 🤖 AI-Augmented Developer leveraging Agentic AI workflows
-- 📚 Continuous learner passionate about software architecture and modern web technologies
+I'm a Front-End Developer and UI/UX Designer passionate about building scalable, high-performance, and user-centered web applications.
+
+My primary focus is developing modern digital products using React.js, Next.js, TypeScript, and Tailwind CSS while maintaining clean architecture, excellent user experience, and long-term maintainability.
+
+I also leverage AI-Augmented Development workflows using modern AI tools to accelerate development, improve productivity, and optimize software delivery.
 
 ---
 
-#🛠 Tech Stack
+🛠 Tech Stack
 
-Frontend Development
+Frontend
 
 - React.js
 - Next.js
@@ -28,7 +28,7 @@ Frontend Development
 - HTML5
 - CSS3
 
-UI/UX Design
+UI/UX
 
 - Figma
 - Design Systems
@@ -36,12 +36,11 @@ UI/UX Design
 - Wireframing
 - Prototyping
 
-Data & APIs
+APIs & Data
 
-- REST API Integration
-- TanStack Query (React Query)
-- JSON
-- API Architecture
+- REST APIs
+- TanStack Query
+- API Integration
 
 Databases
 
@@ -49,7 +48,7 @@ Databases
 - MongoDB
 - MySQL
 
-Development Tools
+Tools
 
 - Git
 - GitHub
@@ -69,55 +68,54 @@ AI Development
 
 ---
 
-#📌 Featured Projects
+🔥 Featured Projects
 
 CRM Dashboard
 
-Modern CRM dashboard built with Next.js, TypeScript and Tailwind CSS featuring scalable architecture, API integration and real-time capabilities.
+Modern CRM system with scalable architecture, API integration, reusable components, and responsive UI.
 
-Company Website
+Corporate Websites
 
-Corporate website focused on performance, responsive design and professional user experience.
+Professional business websites built with Next.js, TypeScript, and Tailwind CSS.
 
 Personal Portfolio
 
-Modern developer portfolio showcasing projects, technical skills and design capabilities.
+A modern portfolio showcasing projects, skills, and design work.
 
 ---
 
-#🌱 Currently Improving
+📈 Currently Improving
 
 - Advanced React Patterns
-- Front-End Architecture
-- Scalable Next.js Applications
+- Next.js Architecture
+- Front-End System Design
 - TypeScript Best Practices
 - AI-Augmented Software Development
 
 ---
 
-#🎓 Education
+🎓 Education
 
 Bachelor's Degree in Computer Engineering
 
 ---
 
-#🌐 Connect With Me
+🌐 Connect With Me
 
-Portfolio:
-https://next-portfolio-git-last-edited-amir-hosseins-projects-1ca50360.vercel.app
+📧 Email: amirhosseinzakeri715@gmail.com
 
-GitHub:
-https://github.com/amirhosseinzakeri715
+💼 LinkedIn:
+linkedin.com/in/amir-hossein-zakeri-032934314
 
-LinkedIn:
-https://linkedin.com/in/amir-hossein-zakeri-032934314
+🎨 Dribbble:
+dribbble.com/amir-hossein-zakeri
 
-Dribbble:
-https://dribbble.com/amir-hossein-zakeri
+🌐 Portfolio:
+next-portfolio-git-last-edited-amir-hosseins-projects-1ca50360.vercel.app
 
-Email:
-amirhosseinzakeri715@gmail.com
+🐙 GitHub:
+github.com/amirhosseinzakeri715
 
 ---
 
-Building modern digital experiences through code, design and AI.
+Building scalable digital products through code, design, and AI.
