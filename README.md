@@ -1,4 +1,4 @@
-👋 Hi, I'm Amir Hossein Zakeri
+#👋 Hi, I'm Amir Hossein Zakeri
 
 Front-End Developer | React & Next.js Developer | UI/UX Designer | AI-Augmented Developer
 
@@ -6,7 +6,7 @@ Computer Engineering student passionate about building modern, scalable, and use
 
 ---
 
-🚀 About Me
+#🚀 About Me
 
 - 💻 Front-End Developer specializing in React.js and Next.js
 - 🎨 UI/UX Designer focused on clean and user-centered experiences
@@ -16,7 +16,7 @@ Computer Engineering student passionate about building modern, scalable, and use
 
 ---
 
-🛠 Tech Stack
+#🛠 Tech Stack
 
 Frontend Development
 
@@ -69,7 +69,7 @@ AI Development
 
 ---
 
-📌 Featured Projects
+#📌 Featured Projects
 
 CRM Dashboard
 
@@ -85,7 +85,7 @@ Modern developer portfolio showcasing projects, technical skills and design capa
 
 ---
 
-🌱 Currently Improving
+#🌱 Currently Improving
 
 - Advanced React Patterns
 - Front-End Architecture
@@ -95,13 +95,13 @@ Modern developer portfolio showcasing projects, technical skills and design capa
 
 ---
 
-🎓 Education
+#🎓 Education
 
 Bachelor's Degree in Computer Engineering
 
 ---
 
-🌐 Connect With Me
+#🌐 Connect With Me
 
 Portfolio:
 https://next-portfolio-git-last-edited-amir-hosseins-projects-1ca50360.vercel.app
